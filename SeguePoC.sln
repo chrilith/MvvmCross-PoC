@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeguePoC.iOS", "iOS\SeguePoC.iOS.csproj", "{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DD6C68E-57BD-438B-B7E3-1967A296CD2F}"
+	ProjectSection(SolutionItems) = preProject
+		NextViewController.cs = NextViewController.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Release|iPhone.Build.0 = Release|iPhone
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{799C047B-294A-4AE3-92D6-8D5ECF25DC3D}.Release|Any CPU.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
